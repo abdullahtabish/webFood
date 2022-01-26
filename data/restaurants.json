@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Barbeque Nation",
+    "address": "3rd Floor,Triplex Mall, Gajpati Nagar Nalco chowk, Bhubaneswar",
+    "cuisine": "Indian and international cuisines",
+    "website": "https://www.barbequenation.com/restaurants/bhubaneswar/sachivalaya-marg",
+    "description": "Behaviour, ambience, food quality, variety is extraordinary.",
+    "id": "e2fcc8e3-0543-4deb-ad9c-7d8082876b65"
+  },
+  {
+    "name": "Nakli Dhaba",
+    "address": "8 - B Jayadev Vihar Behind Hotel Trident, Bhubaneswar",
+    "cuisine": "North Indian",
+    "website": "https://www.mayfairhotels.com/mayfair-lagoon/wine-and-dine/nakli-dhaba.html",
+    "description": "Awesome experience at the hotel.. thanks to the courteous and helpful staff from reception to room service.",
+    "id": "352b424e-f5b7-4fe4-8cc3-45abff5517d4"
+  },
+  {
+    "name": "Jungle View",
+    "address": "Chandaka Nandankanan Road, Near Botanical Garden South Gate, Bhubaneswar",
+    "cuisine": "Chinese and Muglai Indian Cusine",
+    "website": "https://jungleview.eodisha.com/",
+    "description": "Went here for the famous Bamboo Mutton and I must say it was yummy. ",
+    "id": "f9168610-7483-4d76-9258-b4b6e25eb72e"
+  },
+  {
+    "name": "Orchid",
+    "address": "86/A-1, Gautam Nagar Near Kalpana Square, Fortune Park Sisihmo, Bhubaneswar",
+    "cuisine": "Multi-cuisine",
+    "website": "https://www.fortunehotels.in/bhubaneswar-fortune-park-sishmo-dining.dhm.1366",
+    "description": "Love this place a lot they serve a variety of cuisine. The seafood here is great and very fresh.",
+    "id": "2f1ed3f6-2b0b-4d21-9171-463d2ef35e03"
+  }
+]
